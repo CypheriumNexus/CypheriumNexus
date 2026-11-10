@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:101820,50:142d3e,100:00b4d8&text=CypheriumNexus&fontColor=ffffff&fontSize=45&fontAlignY=55&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <b>CYBERSECURITY | DIGITAL FORENSICS | NETWORKING | PROGRAMMING | INFORMATION TECHNOLOGY</b>
+  <img
+    src="assets/Banner.png"
+    alt="CypheriumNexus — Cybersecurity, Digital Forensics, Networking, Programming and Information Technology"
+    width="100%"
+  />
 </p>
 
 <p align="center">
