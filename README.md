@@ -1,979 +1,495 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:101820,50:142d3e,100:00b4d8&text=CypheriumNexus&fontColor=ffffff&fontSize=45&fontAlignY=55&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <b>CYBERSECURITY | DIGITAL FORENSICS | NETWORKING | PROGRAMMING | INFORMATION TECHNOLOGY</b>
+</p>
+
+<p align="center">
+  <i>Exploring systems, analyzing vulnerabilities, developing solutions, and understanding the technology behind it all.</i>
+</p>
+
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=CypheriumNexus&theme=midnight)
 
-# 👋 Hi, I'm CypheriumNexus
+---
+
+<!-- ===================================================== -->
+<!--                  GITHUB STAT CARDS                    -->
+<!-- ===================================================== -->
+
+<!-- Reserved space for GitHub statistic cards -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="CypheriumNexus — Cybersecurity & Information Security" width="100%">
+  <!-- GitHub Stats Card -->
+  <!-- Most Used Languages Card -->
+  <!-- GitHub Streak Card -->
 </p>
 
 <p align="center">
-  <strong>Cybersecurity • Digital Forensics • Network Security • IT</strong>
-</p>
-
-<p align="center">
-  <img src="YOUR_PROFILE_VIEWS_BADGE_URL" alt="Profile Views">
-  <img src="YOUR_FOLLOWERS_BADGE_URL" alt="Followers">
-  <img src="YOUR_REPOSITORIES_BADGE_URL" alt="Repositories">
-</p>
-
-<p align="center">
-  <!-- SOCIAL / PROFESSIONAL BADGES -->
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="YOUR_LINKEDIN_BADGE_URL" alt="LinkedIn">
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="YOUR_GITHUB_BADGE_URL" alt="GitHub">
-  </a>
-  <a href="YOUR_WEBSITE_URL">
-    <img src="YOUR_WEBSITE_BADGE_URL" alt="Website">
-  </a>
-  <a href="YOUR_EMAIL_URL">
-    <img src="YOUR_EMAIL_BADGE_URL" alt="Email">
-  </a>
+  <!-- Contribution Graph -->
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ===================================================== -->
+<!-- SECTION 01 - ABOUT ME                                 -->
+<!-- ===================================================== -->
 
-I'm **CypheriumNexus**, a cybersecurity-focused IT professional from **South Carolina** with an academic background in **Computer Technology, Cybersecurity, and Digital Forensics**.
+<details>
+<summary><b>01 — ABOUT ME</b></summary>
 
-My interests include building practical security and network-management tools, understanding how systems work, strengthening infrastructure, and developing hands-on cybersecurity skills.
+### Introduction
 
-I'm particularly interested in:
+I'm an aspiring cybersecurity and information technology professional with an academic background in Computer Technology, specializing in Cybersecurity and Digital Forensics.
 
-* 🔐 Cybersecurity & Information Security
-* 🛡️ Network Security
-* 🔎 Digital Forensics
-* 🧪 Ethical Hacking
-* 🚨 Incident Response
-* 🌐 Network Administration
-* 🖥️ Windows Systems
-* ⚙️ Automation & Scripting
-* 🧰 Security & IT Utilities
+My interests include system security, network analysis, digital investigations, threat intelligence, OSINT, scripting, software development, and information security.
 
-> **My philosophy:** Learn by building, understand by testing, and improve by continuously learning.
-
----
-
-## 🎓 Education
-
-<details open>
-<summary><b>🎓 Tri-County Technical College</b></summary>
-
-<br>
-
-### Associate in Applied Science — Computer Technology
-
-**Concentration:** Cybersecurity & Forensics
-**Institution:** Tri-County Technical College
-**Period:** 2019 – 2025
-**GPA:** **3.762**
-
-My studies focused on cybersecurity and digital forensics, with hands-on coursework and learning related to:
-
-* 🔐 Network Security
-* 🧪 Ethical Hacking
-* 🚨 Incident Response
-* 🔎 Digital Forensics
-* 🌐 Networking
-* 🖥️ Computer Systems
-* 🛡️ Information Security
-
-My degree is listed by Tri-County Technical College as an **Associate in Applied Science in Computer Technology with a Cybersecurity and Forensics emphasis**.
-
-</details>
-
----
-
-## 🏆 Honors & Awards
-
-<details open>
-<summary><b>🏅 Academic & Leadership Recognition</b></summary>
-
-<br>
-
-### 🥇 National Society of Leadership & Success
-
-**Certificate of Recognition**
-**August 2024**
-
-Recognition associated with membership in the National Society of Leadership & Success (NSLS), an organization focused on leadership development, academic achievement, personal development, and professional growth.
-
----
-
-### 🏆 Phi Theta Kappa Honor Society
-
-**Membership Certificate**
-**May 2019**
-
-Inducted into **Phi Theta Kappa (PTK)**, the international honor society for two-year colleges.
-
-Membership recognized academic achievement and provided opportunities related to:
-
-* Academic excellence
-* Leadership
-* Scholarship
-* Service
-* Professional development
-* Community engagement
-
-</details>
-
----
-
-## 🏛️ Organizations
-
-### 🟦 National Society of Leadership & Success
-
-**Member — August 2024 to Present**
-
-Focused on leadership development, professional growth, goal-setting, mentorship, networking, and personal development.
-
-### 🟨 Phi Theta Kappa
-
-**Honor Society Member — May 2019 to Present**
-
-International honor society recognizing academic achievement among students at two-year colleges.
-
----
-
-## 💼 Professional Experience
-
-<details open>
-<summary><b>🛡️ No/Label Security Services & Solutions</b></summary>
-
-<br>
-
-**South Carolina, United States**
-
-My professional interests and activities center around cybersecurity, information security, technology, and security-focused solutions.
+I enjoy exploring how systems operate, investigating technical problems, automating processes, and developing practical tools through hands-on projects and experimentation.
 
 ### Areas of Interest
 
-* Cybersecurity
-* Information Security
-* Network Security
-* Security Operations
-* IT Infrastructure
-* Digital Forensics
-* Security Tooling
-* System Administration
+- Cybersecurity and Information Assurance
+- Security Operations and Threat Intelligence
+- Digital Forensics and Incident Investigation
+- Network Security and Traffic Analysis
+- Open-Source Intelligence (OSINT)
+- Linux System Administration
+- Programming and Scripting
+- Database Development and Management
+- Automation and Technical Tool Development
+
+### Current Focus
+
+- Expanding practical cybersecurity knowledge.
+- Developing programming and scripting capabilities.
+- Exploring network reconnaissance and defensive security.
+- Building technical utilities and open-source projects.
+- Strengthening digital forensic investigation skills.
+- Developing a professional cybersecurity portfolio.
 
 </details>
 
 ---
 
-# 🚀 Cybersecurity Projects
-
-## 🔐 NetSecCmd-Suite
-
-**February 2025**
-
-The **Network Security Command Suite (NetSecCmd-Suite)** is a Windows Batch-based utility designed to simplify and centralize essential network administration and system-maintenance tasks.
-
-The project provides an interactive, menu-driven interface allowing IT professionals to execute common diagnostic, configuration, and monitoring commands without manually recalling complex command syntax.
-
-### Key Concepts
-
-* Network diagnostics
-* System administration
-* Network configuration
-* Security checks
-* Maintenance automation
-* Windows command-line tooling
-* Menu-driven interfaces
-
-### Technologies
-
-```text
-Windows Batch
-Command Prompt
-Networking Utilities
-Windows System Administration
-```
-
-**Repository:** `YOUR_NETSECCMD_SUITE_REPOSITORY_URL`
-
----
-
-## 🌐 Network Management Tool
-
-**February 2025 – October 2025**
-
-A batch-based network-management utility for Windows designed to centralize network diagnostics, configuration, and system-maintenance operations.
-
-The project combines common administrative commands into an interactive, menu-driven interface designed to make routine IT workflows faster, more consistent, and easier to navigate.
-
-### Features
-
-* 📡 Network diagnostics
-* 📶 Wi-Fi utilities
-* 🔐 Security utilities
-* 🛠️ System maintenance
-* ⚙️ Command automation
-* 🧭 Safe navigation
-* ✅ Input validation
-* 📊 Network statistics
-* 🧱 Firewall checks
-* 🌐 Connectivity testing
-
-### Technologies
-
-```text
-Windows Batch
-Netsh
-Netstat
-PowerShell
-WMIC
-Windows Command Line
-```
-
-**Repository:** `YOUR_NETWORK_MANAGEMENT_REPOSITORY_URL`
-
----
-
-# 🧰 Technology Stack
-
-## 💻 Languages & Scripting
-
-<p>
-  <img src="YOUR_BADGE_URL" alt="Windows Batch">
-  <img src="YOUR_BADGE_URL" alt="PowerShell">
-  <img src="YOUR_BADGE_URL" alt="YOUR_OTHER_LANGUAGE">
-</p>
-
-```text
-Windows Batch
-PowerShell
-[ADD LANGUAGE]
-[ADD LANGUAGE]
-```
-
-## 🌐 Networking
-
-```text
-Netsh
-Netstat
-Windows Networking
-TCP/IP
-Network Diagnostics
-Firewall Configuration
-Wi-Fi Administration
-```
-
-## 🔐 Cybersecurity
-
-```text
-Network Security
-Ethical Hacking
-Digital Forensics
-Incident Response
-Security Administration
-Security Diagnostics
-```
-
-## 🖥️ Systems
-
-```text
-Windows
-Command Prompt
-PowerShell
-WMIC
-System Administration
-IT Maintenance
-```
-
----
-
-# 🗂️ Repository & Project Architecture
-
-A major goal of my GitHub is to keep projects **organized, understandable, reproducible, and security-conscious**.
-
-Below is the general architecture I use for larger projects.
-
-```text
-PROJECT/
-│
-├── README.md
-├── LICENSE
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── SECURITY.md
-├── CODE_OF_CONDUCT.md
-│
-├── docs/
-│   ├── architecture/
-│   │   ├── system-overview.md
-│   │   ├── network-diagram.md
-│   │   └── design-decisions.md
-│   │
-│   ├── guides/
-│   │   ├── installation.md
-│   │   ├── configuration.md
-│   │   └── troubleshooting.md
-│   │
-│   └── screenshots/
-│       ├── dashboard.png
-│       ├── terminal.png
-│       └── workflow.png
-│
-├── src/
-│   ├── core/
-│   ├── network/
-│   ├── security/
-│   ├── diagnostics/
-│   ├── maintenance/
-│   └── utilities/
-│
-├── scripts/
-│   ├── setup/
-│   ├── deployment/
-│   ├── diagnostics/
-│   └── maintenance/
-│
-├── config/
-│   ├── default/
-│   ├── development/
-│   └── production/
-│
-├── tests/
-│   ├── unit/
-│   ├── integration/
-│   └── security/
-│
-├── tools/
-│   ├── development/
-│   └── administration/
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   ├── diagrams/
-│   └── badges/
-│
-└── .github/
-    ├── workflows/
-    │   ├── ci.yml
-    │   ├── security.yml
-    │   └── release.yml
-    │
-    ├── ISSUE_TEMPLATE/
-    │   ├── bug_report.md
-    │   └── feature_request.md
-    │
-    └── pull_request_template.md
-```
+<!-- ===================================================== -->
+<!-- SECTION 02 - EDUCATION                                -->
+<!-- ===================================================== -->
 
 <details>
-<summary><b>📁 Architecture philosophy</b></summary>
+<summary><b>02 — EDUCATION & ACADEMIC CREDENTIALS</b></summary>
 
-<br>
+### Academic Background
 
-### `/src`
+**Tri-County Technical College**  
+Pendleton, South Carolina
 
-Primary application/source code.
+**Associate of Applied Science (A.A.S.) — Computer Technology**
 
-### `/scripts`
+Cybersecurity & Digital Forensics Emphasis
 
-Automation, administration, deployment, diagnostics, and maintenance scripts.
+- Expected Graduation: Spring 2027
+- Academic Recognition: Phi Theta Kappa
+- Academic Recognition: National Society of Leadership and Success
 
-### `/config`
+### Program Concentrations
 
-Configuration files separated by environment.
+- Cybersecurity and Network Security
+- Digital Forensic Investigation
+- Computer Networking and Administration
+- Database Management and Development
+- Programming and Software Development
+- Operating Systems and System Administration
+- Technical Support and Information Technology
+- Professional IT Ethics
 
-### `/tests`
+### Relevant Coursework
 
-Testing and validation.
+| Course | Subject |
+|---|---|
+| CPT 167 | Programming Logic |
+| CPT 234 | C Programming I |
+| CPT 242 | Database |
+| CPT 285 | Hardware |
+| IST 191 | Linux System Administration |
+| IST 220 | Data Communications |
+| IST 222 | Webpage Production |
+| IST 266 | Internet & Firewall Security |
+| IST 269 | Digital Forensics |
+| IST 291 | Information Technology |
 
-### `/docs`
+### Certifications & Academic Recognition
 
-Technical documentation, architecture decisions, setup guides, and troubleshooting.
+| Credential | Organization |
+|---|---|
+| Cyber Threat Intelligence 101 | arcX |
+| Phi Theta Kappa Honor Society | PTK |
+| National Society of Leadership and Success | NSLS |
 
-### `/assets`
+### Additional Academic Development
 
-Images, diagrams, screenshots, icons, and other project resources.
+**Phi Theta Kappa — EDGE Program**
 
-### `/.github`
-
-GitHub-specific automation, workflows, templates, and project-management configuration.
+- Advocacy
+- Competitive
+- Employment
+- Research
 
 </details>
 
 ---
 
-# 🏗️ Example Cybersecurity Project Architecture
-
-For security and network utilities, I prefer separating functionality into logical security and administration domains.
-
-```text
-NetSecCmd-Suite/
-│
-├── README.md
-│
-├── src/
-│   │
-│   ├── main.bat
-│   │
-│   ├── diagnostics/
-│   │   ├── network_info.bat
-│   │   ├── connectivity.bat
-│   │   ├── route_table.bat
-│   │   └── network_stats.bat
-│   │
-│   ├── security/
-│   │   ├── firewall_check.bat
-│   │   ├── security_status.bat
-│   │   └── open_connections.bat
-│   │
-│   ├── wifi/
-│   │   ├── wifi_profiles.bat
-│   │   ├── wifi_status.bat
-│   │   └── wifi_diagnostics.bat
-│   │
-│   ├── maintenance/
-│   │   ├── system_info.bat
-│   │   ├── cleanup.bat
-│   │   └── maintenance_menu.bat
-│   │
-│   └── utilities/
-│       ├── logger.bat
-│       ├── validation.bat
-│       └── menu.bat
-│
-├── docs/
-│   ├── architecture.md
-│   ├── installation.md
-│   └── usage.md
-│
-├── tests/
-│   └── test-cases.md
-│
-├── screenshots/
-│   ├── main-menu.png
-│   ├── diagnostics.png
-│   └── security.png
-│
-└── .github/
-    └── workflows/
-        └── validation.yml
-```
-
----
-
-# 🔎 Security Mindset
-
-My approach to cybersecurity centers around understanding systems from both the **administrative** and **security** perspectives.
-
-```text
-Understand
-    ↓
-Enumerate
-    ↓
-Analyze
-    ↓
-Identify Risk
-    ↓
-Test
-    ↓
-Mitigate
-    ↓
-Document
-    ↓
-Improve
-```
-
-### Areas I'm Developing
-
-* 🔐 Defensive security
-* 🕵️ Digital forensics
-* 🌐 Network analysis
-* 🧪 Ethical hacking
-* 🚨 Incident response
-* 🛡️ Security hardening
-* ⚙️ Security automation
-* 🧰 Security tooling
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<!-- GITHUB STATS -->
-
-<img src="YOUR_GITHUB_STATS_CARD_URL" alt="GitHub Statistics">
-
-<!-- TOP LANGUAGES -->
-
-<img src="YOUR_TOP_LANGUAGES_CARD_URL" alt="Top Languages">
-
-</p>
-
-<p align="center">
-
-<!-- GITHUB STREAK -->
-
-<img src="YOUR_GITHUB_STREAK_CARD_URL" alt="GitHub Streak">
-
-</p>
+<!-- ===================================================== -->
+<!-- SECTION 03 - TECHNICAL SKILLS                         -->
+<!-- ===================================================== -->
 
 <details>
-<summary><b>📈 More GitHub analytics</b></summary>
+<summary><b>03 — TECHNICAL SKILLS & COMPETENCIES</b></summary>
 
-<br>
+<details>
+<summary><b>⌨️ Programming & Software Development</b></summary>
+
+| Technology | Skills & Applications |
+|---|---|
+| C | Variables, data types, operators, loops, arrays, strings, conditional statements |
+| HTML5 | Semantic markup, webpage structure, forms |
+| CSS3 | Styling, layouts, responsive design |
+| TypeScript | Programming fundamentals and frontend development |
+| SQL | Queries, relational data, database manipulation |
+| Batch | Windows command-line scripting and automation |
+| Bash | Linux shell scripting and automation |
+| PowerShell | Windows administration and automation |
+| Markdown | Technical documentation and README development |
+
+</details>
+
+<details>
+<summary><b>🛡️ Cybersecurity & Digital Forensics</b></summary>
+
+| Technology | Skills & Applications |
+|---|---|
+| Wireshark | Packet capture and network traffic analysis |
+| Kali Linux | Security testing and reconnaissance environment |
+| Autopsy | Digital forensic examination |
+| FTK Imager | Forensic acquisition and disk imaging |
+| EnCase E3 | Digital forensic examination |
+| OSINT | Open-source intelligence research |
+| VirusTotal | Malware and indicator analysis |
+| AbuseIPDB | IP reputation and threat intelligence |
+| URLScan.io | URL and website analysis |
+| Have I Been Pwned | Data breach exposure research |
+
+</details>
+
+<details>
+<summary><b>🌐 Networking & Network Administration</b></summary>
+
+- TCP/IP and IPv4
+- Subnetting and network addressing
+- DNS and DHCP fundamentals
+- HTTP and HTTPS
+- SSH and remote administration
+- Port and service enumeration
+- Network traffic analysis
+- Firewall fundamentals
+- Router and switch fundamentals
+- Network reconnaissance
+- Network troubleshooting
+- LAN and WAN fundamentals
+
+</details>
+
+<details>
+<summary><b>🐧 Operating Systems & Virtualization</b></summary>
+
+- Linux System Administration
+- Kali Linux
+- Parrot OS
+- Linux Mint
+- Microsoft Windows
+- Windows CMD
+- PowerShell
+- Linux Terminal
+- Bash Shell
+- Oracle VirtualBox
+- Virtual Machine Configuration
+- Operating System Installation and Management
+
+</details>
+
+<details>
+<summary><b>🗄️ Database Management & Data</b></summary>
+
+- MySQL
+- MariaDB
+- Microsoft Access
+- Relational Database Design
+- Entity Relationship Diagrams (ERDs)
+- Database Normalization (1NF–5NF)
+- SQL Queries and Data Manipulation
+- Database Tables, Forms, and Reports
+- Append and Insert Operations
+- Database Backup and Recovery
+- XAMPP
+
+</details>
+
+<details>
+<summary><b>🔧 Development Tools & Technical Utilities</b></summary>
+
+- Git and GitHub
+- Netlify
+- Google AI Studio
+- Visual Studio
+- Draw.io
+- Raptor
+- Microsoft Office Suite
+- XAMPP
+- Arduino
+- Raspberry Pi
+- VirtualBox
+
+</details>
+
+</details>
+
+---
+
+<!-- ===================================================== -->
+<!-- SECTION 04 - TECHNOLOGY STACK                         -->
+<!-- ===================================================== -->
+
+<details>
+<summary><b>04 — TECHNOLOGY STACK & TOOLS</b></summary>
+
+### Programming & Development
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Batch_Scripting-333333?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
 
-<!-- GITHUB TROPHIES -->
+### Cybersecurity & Digital Forensics
 
-<img src="YOUR_GITHUB_TROPHIES_URL" alt="GitHub Trophies">
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Autopsy-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OSINT-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AbuseIPDB-222222?style=for-the-badge"/>
+</p>
 
-<!-- CONTRIBUTION GRAPH -->
+### Operating Systems & Networking
 
-<img src="YOUR_CONTRIBUTION_GRAPH_URL" alt="Contribution Graph">
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=openssh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</p>
 
-<!-- ACTIVITY GRAPH -->
+### Databases & Development Tools
 
-<img src="YOUR_ACTIVITY_GRAPH_URL" alt="Activity Graph">
-
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 </details>
 
 ---
 
-# 🐍 Contribution Activity
+<!-- ===================================================== -->
+<!-- SECTION 05 - FEATURED PROJECTS                        -->
+<!-- ===================================================== -->
+
+<details>
+<summary><b>05 — FEATURED PROJECTS & REPOSITORIES</b></summary>
+
+### Cybersecurity & Network Security
+
+<details>
+<summary><b>🔐 Security Projects</b></summary>
+
+| Repository | Description |
+|---|---|
+| PrivacyOps | Privacy operations and security toolkit |
+| CyberOps | Cybersecurity tools and technical resources |
+| NetSecCmd-Suite | Network security command-line utilities |
+| OpenMal-Scan | Malware scanning project |
+| IPGeoLoc | IP geolocation utility |
+| RSAxor | Cryptography and encryption experimentation |
+
+</details>
+
+### Digital Forensics
+
+<details>
+<summary><b>🔬 Forensic Investigation</b></summary>
+
+| Repository | Description |
+|---|---|
+| IST-269---Digital-Forensics | Academic digital forensic investigations and lab exercises |
+
+**Technologies & Areas:**
+- Autopsy
+- FTK Imager
+- EnCase E3
+- Forensic Acquisition
+- Evidence Examination
+- Digital Investigation
+
+</details>
+
+### Programming & Development
+
+<details>
+<summary><b>💻 Programming Projects</b></summary>
+
+| Repository | Description |
+|---|---|
+| C-Programs | C programming exercises and applications |
+| CipherScript | Programming and scripting project |
+| Raptor-Projects | Programming logic and flowchart development |
+| TechSup-Toolkit | Technical support utilities |
+
+</details>
+
+### Database Development
+
+<details>
+<summary><b>🗄️ Database Projects</b></summary>
+
+| Repository | Description |
+|---|---|
+| Academic-Database | Relational database project using MariaDB/MySQL and Microsoft Access |
+
+**Project Components:**
+- Relational database architecture
+- 25+ database tables
+- Entity Relationship Diagrams
+- Database normalization
+- SQL queries and scripts
+- Microsoft Access forms and reports
+- Data insertion and manipulation
+- Database backup operations
+
+</details>
+
+### Other Technical Projects
+
+<details>
+<summary><b>🧰 Additional Projects</b></summary>
+
+| Repository | Description |
+|---|---|
+| InfoSec-Team-Toolkit | Information security team resources |
+| OpenMal-Scan | Malware scanning experimentation |
+| TechSup-Toolkit | Technical support utilities |
+| NetSecCmd-Suite | Network command-line tools |
+
+</details>
+
+</details>
+
+---
+
+<!-- ===================================================== -->
+<!-- SECTION 06 - GITHUB ACTIVITY                          -->
+<!-- ===================================================== -->
+
+<details>
+<summary><b>06 — GITHUB STATISTICS & CONTRIBUTION ACTIVITY</b></summary>
+
+### GitHub Overview
 
 <p align="center">
-
-<!-- GITHUB CONTRIBUTION SNAKE -->
-
-<img src="YOUR_CONTRIBUTION_SNAKE_URL" alt="GitHub Contribution Snake">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NoLabelSecurity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoLabelSecurity&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<!-- OPTIONAL 3D CONTRIBUTION GRAPH -->
+### Contribution Streak
 
 <p align="center">
-  <img src="YOUR_3D_CONTRIBUTION_GRAPH_URL" alt="3D Contribution Graph">
+  <img src="https://streak-stats.demolab.com?user=NoLabelSecurity&theme=tokyonight&hide_border=true" width="75%"/>
 </p>
 
----
-
-# 🏅 Digital Badges & Credentials
+### Contribution Graph
 
 <p align="center">
-
-<!-- CYBERSECURITY BADGES -->
-
-<img src="YOUR_BADGE_URL" alt="Cybersecurity Badge">
-
-<img src="YOUR_BADGE_URL" alt="Security Badge">
-
-<img src="YOUR_BADGE_URL" alt="Networking Badge">
-
-<img src="YOUR_BADGE_URL" alt="IT Badge">
-
-<img src="YOUR_BADGE_URL" alt="Certification Badge">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoLabelSecurity&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-<details>
-<summary><b>🎖️ Certifications</b></summary>
-
-<br>
-
-> Add certifications here as they are earned.
-
-| Certification     | Issuer     | Date     | Credential |
-| ----------------- | ---------- | -------- | ---------- |
-| `[CERTIFICATION]` | `[ISSUER]` | `[DATE]` | `[LINK]`   |
-| `[CERTIFICATION]` | `[ISSUER]` | `[DATE]` | `[LINK]`   |
-| `[CERTIFICATION]` | `[ISSUER]` | `[DATE]` | `[LINK]`   |
-
 </details>
 
 ---
 
-# 📚 Learning & Development
-
-<details open>
-<summary><b>🧠 Current Learning Areas</b></summary>
-
-<br>
-
-```text
-Cybersecurity
-████████████████░░░░ 80%
-
-Network Security
-███████████████░░░░░ 75%
-
-Digital Forensics
-██████████████░░░░░░ 70%
-
-Ethical Hacking
-██████████████░░░░░░ 70%
-
-Incident Response
-█████████████░░░░░░░ 65%
-
-Security Automation
-████████████░░░░░░░░ 60%
-```
-
-</details>
+<!-- ===================================================== -->
+<!-- SECTION 07 - CONNECT                                  -->
+<!-- ===================================================== -->
 
 <details>
-<summary><b>📖 Topics I'm exploring</b></summary>
+<summary><b>07 — PROFESSIONAL LINKS & CONTACT</b></summary>
 
-<br>
-
-* Network security
-* Digital forensics
-* Incident response
-* Ethical hacking
-* Windows security
-* Security automation
-* Network administration
-* System hardening
-* Threat detection
-* Security tooling
-
-</details>
-
----
-
-# 💡 Current & Future Projects
-
-<details open>
-<summary><b>🔥 Active Projects</b></summary>
-
-<br>
-
-### [PROJECT NAME]
-
-**Status:** 🟢 Active
-
-**Description:**
-[PROJECT DESCRIPTION]
-
-**Technologies:**
-
-`[TECH]` `[TECH]` `[TECH]`
-
-**Goals:**
-
-* [ ] `[GOAL]`
-* [ ] `[GOAL]`
-* [ ] `[GOAL]`
-
-</details>
-
-<details>
-<summary><b>🧪 Experimental Projects</b></summary>
-
-<br>
-
-* 🧪 `[PROJECT]`
-* 🧪 `[PROJECT]`
-* 🧪 `[PROJECT]`
-
-</details>
-
-<details>
-<summary><b>💡 Future Ideas</b></summary>
-
-<br>
-
-* 💡 `[PROJECT IDEA]`
-* 💡 `[PROJECT IDEA]`
-* 💡 `[PROJECT IDEA]`
-
-</details>
-
----
-
-# 🗓️ Education & Career Timeline
-
-<details open>
-<summary><b>📅 Timeline</b></summary>
-
-<br>
-
-```text
-2019
- │
- ├── 🎓 Tri-County Technical College
- │
- ├── 🏆 Phi Theta Kappa
- │
- │
-2024
- │
- ├── 🏅 NSLS Certificate of Recognition
- │
- │
-2025
- │
- ├── 🎓 Associate in Applied Science
- │     Computer Technology
- │     Cybersecurity & Forensics
- │
- ├── 🛡️ Network Security Projects
- │
- ├── 🔐 NetSecCmd-Suite
- │
- └── 🌐 Network Management Tool
- │
- ▼
-2026+
- │
- └── 🚀 Continuing development in cybersecurity
-```
-
-</details>
-
----
-
-# 🤝 Collaboration
-
-I'm interested in collaborating on projects involving:
-
-* 🔐 Cybersecurity
-* 🌐 Network security
-* 🧪 Ethical hacking
-* 🔎 Digital forensics
-* 🚨 Incident response
-* 🖥️ System administration
-* ⚙️ Automation
-* 🧰 Developer/security tools
-* 🌟 Open source
-
-If you're building something interesting in these areas, I'm always interested in learning more.
-
----
-
-# 📂 Repository Categories
-
-I organize my GitHub projects around several areas:
-
-| Category         | Focus                                |
-| ---------------- | ------------------------------------ |
-| 🔐 `security/`   | Cybersecurity & information security |
-| 🌐 `networking/` | Network administration & diagnostics |
-| 🔎 `forensics/`  | Digital forensics & investigation    |
-| 🧪 `labs/`       | Experiments and security research    |
-| ⚙️ `automation/` | Scripts and workflow automation      |
-| 🛠️ `tools/`     | IT & security utilities              |
-| 📚 `learning/`   | Coursework, notes, and exercises     |
-| 🚀 `projects/`   | Larger applications and solutions    |
-
----
-
-# 🧪 Security Lab
-
-<details>
-<summary><b>🔬 Planned Lab Architecture</b></summary>
-
-<br>
-
-```text
-SECURITY-LAB/
-│
-├── README.md
-│
-├── reconnaissance/
-│   ├── enumeration/
-│   ├── network-discovery/
-│   └── osint/
-│
-├── network-security/
-│   ├── packet-analysis/
-│   ├── firewall/
-│   └── network-monitoring/
-│
-├── digital-forensics/
-│   ├── disk-analysis/
-│   ├── memory-analysis/
-│   └── evidence/
-│
-├── incident-response/
-│   ├── triage/
-│   ├── investigation/
-│   └── reporting/
-│
-├── defensive-security/
-│   ├── hardening/
-│   ├── detection/
-│   └── monitoring/
-│
-├── automation/
-│   ├── powershell/
-│   ├── batch/
-│   └── python/
-│
-└── documentation/
-    ├── notes/
-    ├── diagrams/
-    └── reports/
-```
-
-</details>
-
----
-
-# 📝 Documentation Standards
-
-For larger projects, documentation will generally include:
-
-```text
-README.md
-    │
-    ├── Overview
-    ├── Features
-    ├── Architecture
-    ├── Requirements
-    ├── Installation
-    ├── Configuration
-    ├── Usage
-    ├── Examples
-    ├── Troubleshooting
-    ├── Security Considerations
-    ├── Roadmap
-    └── License
-```
-
----
-
-# 🎯 Goals
-
-## 2026
-
-* [ ] 🚀 Expand my cybersecurity portfolio
-* [ ] 🔐 Build additional security-focused tools
-* [ ] 🌐 Continue developing networking expertise
-* [ ] 🔎 Expand digital-forensics knowledge
-* [ ] 🧪 Build more hands-on security labs
-* [ ] 📚 Earn additional cybersecurity certifications
-* [ ] 🌟 Contribute to open-source projects
-* [ ] 🤝 Grow my professional cybersecurity network
-
----
-
-# 📸 Project Gallery
-
-<!-- PROJECT SCREENSHOT PLACEHOLDERS -->
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="YOUR_PROJECT_SCREENSHOT_URL" alt="Project Screenshot" width="100%">
-
-**[PROJECT NAME]**
-
-</td>
-
-<td width="50%">
-
-<img src="YOUR_PROJECT_SCREENSHOT_URL" alt="Project Screenshot" width="100%">
-
-**[PROJECT NAME]**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="YOUR_PROJECT_SCREENSHOT_URL" alt="Project Screenshot" width="100%">
-
-**[PROJECT NAME]**
-
-</td>
-
-<td width="50%">
-
-<img src="YOUR_PROJECT_SCREENSHOT_URL" alt="Project Screenshot" width="100%">
-
-**[PROJECT NAME]**
-
-</td>
-</tr>
-</table>
-
----
-
-# 📬 Connect
+### Connect With Me
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="YOUR_LINKEDIN_BADGE_URL" alt="LinkedIn">
-</a>
-
-<a href="YOUR_GITHUB_URL">
-  <img src="YOUR_GITHUB_BADGE_URL" alt="GitHub">
-</a>
-
-<a href="YOUR_WEBSITE_URL">
-  <img src="YOUR_WEBSITE_BADGE_URL" alt="Website">
-</a>
-
-<a href="YOUR_EMAIL_URL">
-  <img src="YOUR_EMAIL_BADGE_URL" alt="Email">
-</a>
-
+  <a href="https://github.com/NoLabelSecurity">
+    <img src="https://img.shields.io/badge/GitHub-NoLabelSecurity-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brian-lorick-infosec">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://no-label.my.canva.site/brian-lorick-profile">
+    <img src="https://img.shields.io/badge/Portfolio-View_Profile-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
----
+### Professional Interests
 
-<details>
-<summary><b>📋 Profile Information</b></summary>
-
-<br>
-
-```yaml
-username: "CypheriumNexus"
-
-location: "South Carolina, United States"
-
-focus:
-  - "Cybersecurity"
-  - "Information Security"
-  - "Network Security"
-  - "Digital Forensics"
-  - "Ethical Hacking"
-  - "Incident Response"
-
-education:
-  institution: "Tri-County Technical College"
-  degree: "Associate in Applied Science"
-  major: "Computer Technology"
-  concentration: "Cybersecurity & Forensics"
-  gpa: "3.762"
-  years: "2019-2025"
-
-organizations:
-  - "National Society of Leadership & Success"
-  - "Phi Theta Kappa"
-
-projects:
-  - "NetSecCmd-Suite"
-  - "Network Management Tool"
-
-professional_affiliation:
-  - "No/Label Security Services & Solutions"
-```
+- Cybersecurity
+- Security Operations (SOC)
+- Digital Forensics
+- Cyber Threat Intelligence
+- Network Security
+- Information Assurance
+- Linux Administration
+- Programming and Automation
 
 </details>
 
 ---
 
+<!-- ===================================================== -->
+<!--                     FOOTER                            -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="YOUR_FOOTER_IMAGE_URL" alt="Footer" width="100%">
+  <i>"Knowledge is the foundation. Curiosity is the catalyst. Execution is the difference."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00b4d8,100:101820" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>CypheriumNexus | NoLabelSecurity | Cybersecurity & Technology</sub>
 </p>
 
 <p align="center">
