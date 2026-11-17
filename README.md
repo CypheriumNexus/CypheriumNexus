@@ -10,7 +10,13 @@
   <i>Exploring systems, analyzing vulnerabilities, developing solutions, and understanding the technology behind it all.</i>
 </p>
 
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=CypheriumNexus&theme=midnight)
+<p align="left"> 
+  <img src="https://ghstats.dev/api/card?username=CypheriumNexus&custom_title=Github+Stats" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=CypheriumNexus&custom_title=Languages&layout=donut_vertical" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/sparkline?username=CypheriumNexus&days=30&width=320&height=80" alt="Contribution Sparkline" />
+</p>
+
+
 
 ---
 
