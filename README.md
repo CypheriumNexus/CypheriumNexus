@@ -16,7 +16,13 @@
   <img src="https://ghstats.dev/api/sparkline?username=CypheriumNexus&days=30&width=320&height=80" alt="Contribution Sparkline" />
 </p>
 
+---
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,c,html,css,mysql,ts,py,bash,powershell,md,windows,netlify,linux,debian,mint,kali,raspberrypi,arduino,gmail,discord" />
+  </a>
+</p>
 
 ---
 
