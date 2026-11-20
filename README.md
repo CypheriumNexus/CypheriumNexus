@@ -10,11 +10,96 @@
   <i>Exploring systems, analyzing vulnerabilities, developing solutions, and understanding the technology behind it all.</i>
 </p>
 
-<p align="left"> 
-  <img src="https://ghstats.dev/api/card?username=CypheriumNexus&custom_title=Github+Stats" alt="GitHub Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=CypheriumNexus&custom_title=Languages&layout=donut_vertical" alt="Top Languages" />
-  <img src="https://ghstats.dev/api/sparkline?username=CypheriumNexus&days=30&width=320&height=80" alt="Contribution Sparkline" />
+
+<!-- ===================================================== -->
+<!--               GITHUB STATISTICS DASHBOARD             -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GITHUB STATISTICS & ANALYTICS</h2>
+
+<p align="center">
+  <i>Repository Activity • Programming Languages • Contributions</i>
 </p>
+
+<table align="center">
+  <tr>
+    <!-- TOP LEFT -->
+    <td align="center" width="50%">
+      <img
+        src="https://ghstats.dev/api/card?username=CypheriumNexus&custom_title=GitHub+Stats&theme=tokyonight"
+        width="400"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <!-- TOP RIGHT -->
+    <td align="center" width="50%">
+      <img
+        src="https://ghstats.dev/api/langs?username=CypheriumNexus&custom_title=Language+Distribution&theme=tokyonight&layout=donut"
+        width="400"
+        alt="Language Distribution"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- MIDDLE LEFT -->
+    <td align="center" width="50%">
+      <img
+        src="https://ghstats.dev/api/langs?username=CypheriumNexus&theme=tokyonight&layout=bar"
+        width="400"
+        alt="Languages Bar Chart"
+      />
+    </td>
+    <!-- MIDDLE RIGHT -->
+    <td align="center" width="50%">
+      <img
+        src="https://ghstats.dev/api/langs?username=CypheriumNexus&theme=tokyonight&layout=compact"
+        width="400"
+        alt="Compact Language Statistics"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <!-- BOTTOM LEFT -->
+    <td align="center" width="50%">
+      <img
+        src="https://ghstats.dev/api/langs?username=CypheriumNexus&theme=tokyonight&layout=grid"
+        width="400"
+        alt="Language Grid"
+      />
+    </td>
+    <!-- BOTTOM RIGHT -->
+    <td align="center" width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=CypheriumNexus&theme=tokyonight&hide_border=true"
+        width="400"
+        alt="GitHub Contribution Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- CONTRIBUTION GRAPH -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CypheriumNexus&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<!-- 30-DAY ACTIVITY -->
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/sparkline?username=CypheriumNexus&days=30&width=800&height=80"
+    width="95%"
+    alt="30-Day GitHub Activity"
+  />
+</p>
+
+<!-- ===================================================== -->
+
 
 ---
 
