@@ -1,7 +1,14 @@
+
+
+<!-- ========================================================= -->
+<!-- CYIPHERIUMNEXUS — NEURAL PULSE LATTICE PROFILE BANNER      -->
+<!-- Save the SVG at assets/neural-pulse-lattice.svg            -->
+<!-- ========================================================= -->
+
 <p align="center">
   <img
-    src="assets/Banner.png"
-    alt="CypheriumNexus — Cybersecurity, Digital Forensics, Networking, Programming and Information Technology"
+    src="./assets/neural-pulse-lattice.svg"
+    alt="CypheriumNexus — Neural Pulse Lattice | Cybersecurity, Digital Forensics, Network Security and Programming"
     width="100%"
   />
 </p>
@@ -9,6 +16,114 @@
 <p align="center">
   <i>Exploring systems, analyzing vulnerabilities, developing solutions, and understanding the technology behind it all.</i>
 </p>
+
+---
+
+<details>
+<summary><strong> transmission</strong></summary>
+
+<br>
+
+I'm Brian Lorick, an aspiring cybersecurity and information technology professional pursuing an Associate of Applied Science in Computer Technology at Tri-County Technical College, with an emphasis in Cybersecurity and Digital Forensics. My interests include security operations, threat intelligence, OSINT, digital investigations, network analysis, Linux administration, programming, and database development.
+
+I enjoy learning by building, testing, documenting, and investigating. This profile documents academic work, hands-on labs, technical experiments, and open-source projects as I continue developing practical skills.
+
+</details>
+
+<details>
+<summary><strong> nodes (currently active)</strong></summary>
+
+<br>
+
+- `n01` · **Cybersecurity & Threat Intelligence** — Security fundamentals, threat research, reconnaissance, and defensive security practices.
+- `n02` · **Digital Forensics** — Evidence acquisition, forensic examination, investigation workflows, Autopsy, and FTK Imager.
+- `n03` · **Network Security & Analysis** — TCP/IP, IPv4, packet analysis, Wireshark, network troubleshooting, and security concepts.
+- `n04` · **Linux & Systems** — Linux administration, command-line workflows, Bash, Windows, and virtualization.
+- `n05` · **Programming & Automation** — C, HTML, CSS, TypeScript, SQL, Batch, Bash, and PowerShell.
+- `n06` · **Database Development** — MySQL, MariaDB, relational design, normalization, SQL scripts, and ER diagrams.
+- `n07` · **Current Academic Focus** — A.A.S. Computer Technology; Cybersecurity & Digital Forensics emphasis; expected Spring 2027.
+
+</details>
+
+<details>
+<summary><strong> toolkit</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,ts,python,bash,powershell,mysql,linux,kali,windows,github,git,arduino,raspberrypi" alt="Technology stack" />
+</p>
+
+**Security & forensic tools:**
+
+Wireshark · Autopsy · FTK Imager · VirtualBox · Kali Linux · VirusTotal · AbuseIPDB · URLScan.io
+
+**Development & data:**
+
+C · HTML5 · CSS3 · TypeScript · SQL · MySQL · MariaDB · XAMPP · Git · GitHub
+
+</details>
+
+<details>
+<summary><strong> education & recognition</strong></summary>
+
+<br>
+
+**Tri-County Technical College**  
+Associate of Applied Science (A.A.S.), Computer Technology  
+Cybersecurity & Digital Forensics Emphasis  
+Expected graduation: Spring 2027
+
+**Recognition & Certifications**
+
+- Phi Theta Kappa (PTK), Alpha Zeta Beta Chapter
+- National Society of Leadership and Success (NSLS)
+- arcX — Cyber Threat Intelligence 101
+
+</details>
+
+<details>
+<summary><strong> featured repositories</strong></summary>
+
+<br>
+
+| Project | Description |
+|---|---|
+| [C_progs](https://github.com/CypheriumNexus/C_progs) | C programming exercises and practice programs |
+| [forensics_labs](https://github.com/CypheriumNexus/forensics_labs) | Digital forensics labs and investigation work |
+| [raptor_flowcharts](https://github.com/CypheriumNexus/raptor_flowcharts) | Program logic, algorithm design, and flowcharts |
+
+</details>
+
+<details>
+<summary><strong> endpoints</strong></summary>
+
+<br>
+
+Replace these example destinations with your preferred public contact points:
+
+- **Portfolio:** [`example.com`](https://example.com)
+- **LinkedIn:** [`linkedin.com/in/your-profile`](https://www.linkedin.com/in/your-profile)
+- **Email:** [`you@example.com`](mailto:you@example.com)
+- **Other:** [`@your-handle`](https://example.com/your-handle)
+
+</details>
+
+---
+
+<!-- <p align="center">
+  <i>Knowledge is the foundation. Curiosity is the catalyst. Execution is the difference.</i>
+</p>
+
+<p align="center">
+  <sub>CypheriumNexus · Building. Learning. Securing. Improving.</sub>
+</p>
+
+---
+
+<p align="center">
+  <i>Exploring systems, analyzing vulnerabilities, developing solutions, and understanding the technology behind it all.</i>
+</p> -->
 
 
 <!-- ===================================================== -->
