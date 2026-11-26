@@ -3,57 +3,7 @@
 <!-- ========================================================= -->
 <!-- CYIPHERIUMNEXUS — NEURAL PULSE LATTICE PROFILE BANNER      -->
 <!-- Save the SVG at assets/neural-pulse-lattice.svg            -->
-<!-- ========================================================= -->
-
-<!-- ===================================================== -->
-<!--               GITHUB STATISTICS DASHBOARD             -->
-<!-- ===================================================== -->
-
-<h2 align="center">📊 GITHUB STATISTICS & ANALYTICS</h2>
-
-<p align="center">
-  <i>Repository Activity • Programming Languages • Contributions</i>
-</p>
-<table align="center">
-  <tr>
-    <!-- TOP LEFT: GITHUB STATISTICS -->
-    <td align="center" width="50%">
-      <img
-        src="https://github-statspro.vercel.app/api/stats/CypheriumNexus?theme=github_dark"
-        width="400"
-        alt="GitHub Statistics"
-      />
-    </td>
-    <!-- TOP RIGHT: LANGUAGE DISTRIBUTION -->
-    <td align="center" width="50%">
-      <img
-        src="https://github-statspro.vercel.app/api/languages/CypheriumNexus?theme=github_dark&layout=compact"
-        width="400"
-        alt="Programming Language Distribution"
-      />
-    </td>
-  </tr>
-  <tr>
-    <!-- BOTTOM LEFT: CONTRIBUTION STREAK -->
-    <td align="center" width="50%">
-      <img
-        src="https://github-statspro.vercel.app/api/streak/CypheriumNexus?theme=github_dark"
-        width="400"
-        alt="GitHub Contribution Streak"
-      />
-    </td>
-    <!-- BOTTOM RIGHT: ACTIVITY -->
-    <td align="center" width="50%">
-      <img
-        src="https://github-statspro.vercel.app/api/activity/CypheriumNexus?theme=github_dark"
-        width="400"
-        alt="GitHub Activity"
-      />
-    </td>
-  </tr>
-</table>
-
-<!-- ===================================================== 
+<!-- ========================================================= --> 
 
 <p align="center">
   <img
