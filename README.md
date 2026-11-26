@@ -126,6 +126,7 @@ Replace these example destinations with your preferred public contact points:
 </p> -->
 
 
+
 <!-- ===================================================== -->
 <!--               GITHUB STATISTICS DASHBOARD             -->
 <!-- ===================================================== -->
@@ -135,83 +136,44 @@ Replace these example destinations with your preferred public contact points:
 <p align="center">
   <i>Repository Activity • Programming Languages • Contributions</i>
 </p>
-
 <table align="center">
   <tr>
-    <!-- TOP LEFT -->
+    <!-- TOP LEFT: GITHUB STATISTICS -->
     <td align="center" width="50%">
       <img
-        src="https://ghstats.dev/api/card?username=CypheriumNexus&custom_title=GitHub+Stats&theme=tokyonight"
+        src="https://github-statspro.vercel.app/api/stats/CypheriumNexus?theme=github_dark"
         width="400"
         alt="GitHub Statistics"
       />
     </td>
-    <!-- TOP RIGHT -->
+    <!-- TOP RIGHT: LANGUAGE DISTRIBUTION -->
     <td align="center" width="50%">
       <img
-        src="https://ghstats.dev/api/langs?username=CypheriumNexus&custom_title=Language+Distribution&theme=tokyonight&layout=donut"
+        src="https://github-statspro.vercel.app/api/languages/CypheriumNexus?theme=github_dark&layout=compact"
         width="400"
-        alt="Language Distribution"
+        alt="Programming Language Distribution"
       />
     </td>
   </tr>
-
   <tr>
-    <!-- MIDDLE LEFT -->
+    <!-- BOTTOM LEFT: CONTRIBUTION STREAK -->
     <td align="center" width="50%">
       <img
-        src="https://ghstats.dev/api/langs?username=CypheriumNexus&theme=tokyonight&layout=bar"
-        width="400"
-        alt="Languages Bar Chart"
-      />
-    </td>
-    <!-- MIDDLE RIGHT -->
-    <td align="center" width="50%">
-      <img
-        src="https://ghstats.dev/api/langs?username=CypheriumNexus&theme=tokyonight&layout=compact"
-        width="400"
-        alt="Compact Language Statistics"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <!-- BOTTOM LEFT -->
-    <td align="center" width="50%">
-      <img
-        src="https://ghstats.dev/api/langs?username=CypheriumNexus&theme=tokyonight&layout=grid"
-        width="400"
-        alt="Language Grid"
-      />
-    </td>
-    <!-- BOTTOM RIGHT -->
-    <td align="center" width="50%">
-      <img
-        src="https://streak-stats.demolab.com?user=CypheriumNexus&theme=tokyonight&hide_border=true"
+        src="https://github-statspro.vercel.app/api/streak/CypheriumNexus?theme=github_dark"
         width="400"
         alt="GitHub Contribution Streak"
       />
     </td>
+    <!-- BOTTOM RIGHT: ACTIVITY -->
+    <td align="center" width="50%">
+      <img
+        src="https://github-statspro.vercel.app/api/activity/CypheriumNexus?theme=github_dark"
+        width="400"
+        alt="GitHub Activity"
+      />
+    </td>
   </tr>
 </table>
-
-<!-- CONTRIBUTION GRAPH -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CypheriumNexus&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
-<!-- 30-DAY ACTIVITY -->
-<p align="center">
-  <img
-    src="https://ghstats.dev/api/sparkline?username=CypheriumNexus&days=30&width=800&height=80"
-    width="95%"
-    alt="30-Day GitHub Activity"
-  />
-</p>
 
 <!-- ===================================================== -->
 
