@@ -13,44 +13,46 @@
   />
 </p>
 
-<table align="center">
+<!-- ========================================================= -->
+<!-- CYIPHERIUMNEXUS — GITHUB STATISTICS DASHBOARD              -->
+<!-- ========================================================= -->
+
+<table align="center" width="100%">
   <tr>
-    <!-- TOP LEFT: GITHUB STATISTICS -->
-    <td align="center" width="50%">
+    <!-- LEFT COLUMN: GITHUB STATISTICS -->
+    <td align="center" width="50%" valign="middle">
       <img
         src="https://github-statspro.vercel.app/api/stats/CypheriumNexus?theme=github_dark"
-        width="500"
+        width="100%"
         alt="GitHub Statistics"
       />
     </td>
-    <!-- TOP RIGHT: LANGUAGE DISTRIBUTION -->
-    <td align="center" width="50%">
+    <!-- RIGHT COLUMN: STACKED STAT CARDS -->
+    <td align="center" width="50%" valign="middle">
+      <!-- MOST USED LANGUAGES -->
       <img
         src="https://github-statspro.vercel.app/api/languages/CypheriumNexus?theme=github_dark&layout=compact"
-        width="500"
-        alt="Programming Language Distribution"
+        width="100%"
+        alt="Most Used Programming Languages"
       />
-    </td>
-  </tr>
-  <tr>
-    <!-- BOTTOM LEFT: CONTRIBUTION STREAK -->
-    <td align="center" width="50%">
-      <img
-        src="https://github-statspro.vercel.app/api/streak/CypheriumNexus?theme=github_dark"
-        width="500"
-        alt="GitHub Contribution Streak"
-      />
-    </td>
-    <!-- BOTTOM RIGHT: ACTIVITY -->
-    <td align="center" width="50%">
+      <br/>
+      <!-- CONTRIBUTION ACTIVITY -->
       <img
         src="https://github-statspro.vercel.app/api/activity/CypheriumNexus?theme=github_dark"
-        width="500"
-        alt="GitHub Activity"
+        width="100%"
+        alt="GitHub Contribution Activity"
+      />
+      <br/>
+      <!-- CONTRIBUTION STREAK -->
+      <img
+        src="https://github-statspro.vercel.app/api/streak/CypheriumNexus?theme=github_dark"
+        width="100%"
+        alt="GitHub Contribution Streak"
       />
     </td>
   </tr>
 </table>
+
 
 <!-- ===================================================== -->
 
