@@ -13,49 +13,6 @@
   />
 </p>
 
-<!-- ========================================================= -->
-<!-- CYIPHERIUMNEXUS — GITHUB STATISTICS DASHBOARD              -->
-<!-- ========================================================= -->
-
-<table align="center" width="100%">
-  <tr>
-    <!-- LEFT COLUMN: GITHUB STATISTICS -->
-    <td align="center" width="50%" valign="middle">
-      <img
-        src="https://github-statspro.vercel.app/api/stats/CypheriumNexus?theme=github_dark"
-        width="100%"
-        alt="GitHub Statistics"
-      />
-    </td>
-    <!-- RIGHT COLUMN: STACKED STAT CARDS -->
-    <td align="center" width="50%" valign="middle">
-      <!-- MOST USED LANGUAGES -->
-      <img
-        src="https://github-statspro.vercel.app/api/languages/CypheriumNexus?theme=github_dark&layout=compact"
-        width="100%"
-        alt="Most Used Programming Languages"
-      />
-      <br/>
-      <!-- CONTRIBUTION ACTIVITY -->
-      <img
-        src="https://github-statspro.vercel.app/api/activity/CypheriumNexus?theme=github_dark"
-        width="100%"
-        alt="GitHub Contribution Activity"
-      />
-      <br/>
-      <!-- CONTRIBUTION STREAK -->
-      <img
-        src="https://github-statspro.vercel.app/api/streak/CypheriumNexus?theme=github_dark"
-        width="100%"
-        alt="GitHub Contribution Streak"
-      />
-    </td>
-  </tr>
-</table>
-
-
-<!-- ===================================================== -->
-
 <p align="center">
   <i>Exploring systems, analyzing vulnerabilities, developing solutions, and understanding the technology behind it all.</i>
 </p>
